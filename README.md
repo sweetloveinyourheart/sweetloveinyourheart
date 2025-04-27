@@ -1,4 +1,4 @@
-<h1 align="left" id="sw-title">:wave: Hello there! I'm Ryan</h1>
+<h1 align="left" id="sw-title">:wave: Hello there! I'm Lam Nguyen</h1>
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <p align="left">
